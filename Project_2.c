@@ -1,6 +1,6 @@
 // Basic Calculator 
 
-#include<stdio.h>  // The library is for basic input output function
+#include<stdio.h>  // The library is for basic input output function.
 int main() 
 {
     int option,num1,num2,i=1; 
